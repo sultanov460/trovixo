@@ -1,0 +1,3 @@
+import Link from "next/link";
+export const metadata = { title: "Our story" };
+export default function About(){return <div className="container-page story-page"><p className="eyebrow">HELLO, WE’RE TROVIXO</p><h1>A little wonder.<br/>A warmer holiday.</h1><p>There’s something about the first evening the lights go up. Familiar places feel different. Everyone slows down for a moment. That’s the feeling behind Trovixo.</p><p>Our holiday collection starts with a simple idea: make space for small, joyful details and moments worth sharing.</p><Link href="/collections/all" className="holiday-button">Explore the holiday edit ↗</Link></div>}

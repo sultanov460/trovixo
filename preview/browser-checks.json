@@ -1,0 +1,73 @@
+{
+  "checks": [
+    {
+      "path": "/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/collections/all",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/products/trovixo-multicolor-car-christmas-lights",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/cart",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/contact",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/collections/all",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/products/trovixo-multicolor-car-christmas-lights",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/cart",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/contact",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    }
+  ],
+  "liveProduct": "matched configured handle",
+  "cartAdd": "passed",
+  "cartUpdate": "passed",
+  "cartRemove": "passed",
+  "checkout": "real Shopify URL obtained; no payment or order submitted",
+  "httpOnlyCookie": true,
+  "otherVariantStatus": 400,
+  "crossOriginStatus": 403,
+  "browserErrors": []
+}
